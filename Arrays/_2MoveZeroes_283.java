@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class MoveZeroes_283 {
+public class _2MoveZeroes_283 {
 
     // public static void main(String[] args){
     //     int a = 0, b = 1;

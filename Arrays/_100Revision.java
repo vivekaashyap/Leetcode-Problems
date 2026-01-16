@@ -1,5 +1,5 @@
 
-public class Revision {
+public class _100Revision {
 
     public static void main(String args[]) {
         int num[] = {4, 2, 0, 3, 2, 5};

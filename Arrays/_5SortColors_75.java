@@ -1,8 +1,7 @@
 
 import java.util.Arrays;
 
-
-public class SortColors_75 {
+public class _5SortColors_75 {
 
     public static void main(String[] args) {
         int num[] = {2, 0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 2, 2};

@@ -1,7 +1,7 @@
 
 import java.util.Arrays;
 
-public class SearchRange_34 {
+public class _4SearchRange_34 {
 
     public static void main(String[] args) {
         int[] nums = {5, 7, 7, 8, 8, 10};

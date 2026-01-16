@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class Pow_50 {
+public class _3Pow_50 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
