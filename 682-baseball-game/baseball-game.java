@@ -7,13 +7,9 @@ class Solution {
                 int b = stack.peek();
                 stack.push(a);
                 stack.push(a+b);
-            } else if(ch.equals("D")){
-                stack.push(2*stack.peek());
-            } else if(ch.equals("C")){
-                stack.pop();
-            } else{
-                stack.push(Integer.parseInt(ch));
-            }
+            } else if(ch.equals("D")) stack.push(2*stack.peek());
+            else if(ch.equals("C")) stack.pop();
+            else stack.push(Integer.parseInt(ch));
         }
         int sum = 0;
         for(int x: stack) sum += x;
